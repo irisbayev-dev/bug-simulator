@@ -57,11 +57,14 @@ Coming soon...
 
 ```bash
 git clone https://github.com/irisbayev-dev/bug-simulator.git
-
+``` 
+```bash
 cd bug-simulator
-
+``` 
+```bash
 npm install
-
+```
+``` bash
 npm run dev
 ```
 
